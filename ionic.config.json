@@ -1,0 +1,8 @@
+{
+  "name": "GeoCart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ff0f998a"
+}
